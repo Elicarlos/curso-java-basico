@@ -1,0 +1,14 @@
+package com.loiane.cursojava.aula18;
+
+import java.util.Scanner;
+
+public class EstudoArray {
+
+	public static void main(String[] args) {
+		double [] temperaturas = new double[365];
+		
+		
+
+	}
+
+}

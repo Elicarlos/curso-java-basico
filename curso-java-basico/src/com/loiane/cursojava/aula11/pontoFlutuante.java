@@ -6,8 +6,8 @@ public class pontoFlutuante {
 		double passagem = 2.90;
 		float tomate = 3.95f;
 		
-	System.out.println("Valor da passagem " + passagem);
-	System.out.println("Valor do tomate " + tomate);
+	System.out.println("Valor da passagem: " + passagem);
+	System.out.println("Valor do tomate: " + tomate);
 	}
 
 }

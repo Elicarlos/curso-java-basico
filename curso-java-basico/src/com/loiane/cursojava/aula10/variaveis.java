@@ -5,7 +5,8 @@ public class variaveis {
 	public static void main(String[] args) {
 		
 		int idade = 34;
-		String nome, nomeDoMeuCachorro;
+		String nome;
+		String nomeDoMeuCachorro;
 		nome = "Elicarlos";
 		System.out.println("Idade: " + idade + nome);
 		

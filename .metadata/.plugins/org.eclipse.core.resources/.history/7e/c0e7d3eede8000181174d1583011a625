@@ -1,0 +1,20 @@
+package com.loiane.cursojava.aula18;
+
+public class EstudoArray {
+
+	public static void main(String[] args) {
+		double [] temperaturas = new double[365];
+		temperaturas[0] = 33.7;
+		temperaturas[0] = 14.7;
+		temperaturas[0] = 20.7;
+		temperaturas[0] = 14.7;
+		temperaturas[0] = 40.7;
+		temperaturas[0] = 14.7;
+		temperaturas[0] = 458.7;
+		temperaturas[0] = 47.7;
+		
+		System.out.println("A temperatura é :" + temperaturas[1]);
+
+	}
+
+}
